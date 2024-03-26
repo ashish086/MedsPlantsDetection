@@ -9,7 +9,7 @@ You can either run it google collab or run it locally:
 3. Activate it with the following command: Windows -> `.\postures\Scripts  -> activate , For Example: cd postures/Scripts-> next command->activate
 4. Install the following libraries by running the following command: `pip install -r requirements.txt'
 5. Open medsplantdetection.ipynb file and runn the cells one after the other
-
+6. PLease do not delete the folder: Validation folders it is used for validation for our model during training.
 
 Worflow:
 
